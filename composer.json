@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "hiqdev/yii2-hiart": "0.2.0"
+    "hiqdev/yii2-hiart": "<2.0 || *@dev"
   },
   "autoload": {
     "psr-4": {
