@@ -1,0 +1,15 @@
+{
+  "name": "a1bo/yii2-hiart-steam",
+  "type": "yii2-extension",
+  "description": "Steam web API implementation for yii2-hiart",
+  "minimum-stability": "stable",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Alex B"
+    }
+  ],
+  "require": {
+    "hiqdev/yii2-hiart": "0.2.0"
+  }
+}
