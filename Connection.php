@@ -1,6 +1,6 @@
 <?php
 
-namespace a1bors\steam;
+namespace a1bo\steam;
 
 
 class Connection extends \hiqdev\hiart\rest\Connection implements ConnectionInterface

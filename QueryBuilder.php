@@ -1,6 +1,6 @@
 <?php
 
-namespace a1bor\steam;
+namespace a1bo\steam;
 
 use hiqdev\hiart\Query;
 

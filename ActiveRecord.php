@@ -1,7 +1,7 @@
 <?php
 
 
-namespace a1bor\steam;
+namespace a1bo\steam;
 
 
 class ActiveRecord extends \hiqdev\hiart\ActiveRecord

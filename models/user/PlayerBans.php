@@ -1,6 +1,6 @@
 <?php
 
-namespace a1bor\steam\models\user;
+namespace a1bo\steam\models\user;
 
 
 use hiqdev\hiart\ActiveRecord;
