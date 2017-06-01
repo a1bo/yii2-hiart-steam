@@ -10,6 +10,17 @@
     }
   ],
   "require": {
-    "hiqdev/yii2-hiart": "0.2.0"
-  }
+    "hiqdev/yii2-hiart": ">0.2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "a1bo\\steam\\": ""
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
 }
